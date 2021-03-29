@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2021-03-29T20:29:52.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4BJFeepsXYlmPtRmnSkr" version="14.3.0" type="github">
+  <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-58" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="21ea969265ad0168-10" target="6mR0P-CyY3UZcCd-Mql_-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6mR0P-CyY3UZcCd-Mql_-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-9" value="TICKET INFO" style="html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" parent="1" vertex="1">
+          <mxGeometry x="320" y="128" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-31" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="21ea969265ad0168-9" target="6mR0P-CyY3UZcCd-Mql_-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="230" as="sourcePoint" />
+            <mxPoint x="420" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="151" />
+              <mxPoint x="320" y="151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-44" value="Blob" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="103" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-48" value="1" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-49" value="2&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22-20%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-50" value="3" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-51" value="4" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-59" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6mR0P-CyY3UZcCd-Mql_-21" target="21ea969265ad0168-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-61" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.067;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="6mR0P-CyY3UZcCd-Mql_-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="153" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-68" value="5" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="207" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-69" value="7" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21ea969265ad0168-6" value="Webhook" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="50" y="60" width="210" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-4" value="• MOVIMENTACAO" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="21ea969265ad0168-8" value="• MOVIMENTACAO BH" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="21ea969265ad0168-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;• MOVIMENTACAO 24HORAS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="78" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;• MOVIMENTACAO LEROY MERLIN&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="104" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-2" value="• MOVIMENTACAO KROTON" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="130" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-3" value="• MOVIMENTACAO BA" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="156" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r2mK6EfmVcnbgKtoQoXY-1" value="• MOVIMENTACAO APR" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="21ea969265ad0168-6">
+          <mxGeometry y="182" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r2mK6EfmVcnbgKtoQoXY-4" value="•&amp;nbsp;MOVIMENTACAO PIRELLI PROMETEON" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="21ea969265ad0168-6">
+          <mxGeometry y="208" width="210" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="r2mK6EfmVcnbgKtoQoXY-5" value="• MOVIMENTACAO_SP" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="21ea969265ad0168-6">
+          <mxGeometry y="240" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-6" value="STATUS: ABERTO" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="21ea969265ad0168-6" vertex="1">
+          <mxGeometry y="266" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="21ea969265ad0168-10" value="API Manager&amp;nbsp;" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="500" y="110" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-54" value="1. APIM envia Ticket ID para API&amp;nbsp;FreshServices solicitando arquivo" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="21ea969265ad0168-10" vertex="1">
+          <mxGeometry y="26" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FugFosBJD5qZ5OdPBYvu-2" value="3.&amp;nbsp;APIM guarda arquivo no Blob" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="21ea969265ad0168-10" vertex="1">
+          <mxGeometry y="76" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-65" value="4. APIM cria um evento com ID do Ticket e detalhes do chamado" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="21ea969265ad0168-10" vertex="1">
+          <mxGeometry y="120" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-21" value="API FreshServices" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="500" y="340" width="160" height="80" as="geometry">
+            <mxRectangle x="370" y="220" width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-56" value="2. Retorna Arquivo e informações do chamado para o APIM" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="6mR0P-CyY3UZcCd-Mql_-21" vertex="1">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-75" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6mR0P-CyY3UZcCd-Mql_-13" target="6mR0P-CyY3UZcCd-Mql_-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-13" value="Integration CRM" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="715" y="460" width="160" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-14" value="• Recebe o evento criado pelo FunctionApp/APIM com detalhes do chamado" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6mR0P-CyY3UZcCd-Mql_-13" vertex="1">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-35" value="• Salva detalhes do chamado no banco de dados" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6mR0P-CyY3UZcCd-Mql_-13" vertex="1">
+          <mxGeometry y="80" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-76" value="• Salva registro na Tabela TicketsFlow&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6mR0P-CyY3UZcCd-Mql_-13" vertex="1">
+          <mxGeometry y="130" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6mR0P-CyY3UZcCd-Mql_-73" value="&lt;b&gt;Tabela TicketsFlow&lt;br&gt;DataBase: CRM&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;• [Id] [int] IDENTITY(1,1) NOT NULL,&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;[IdTicket][int] NOT NULL,&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;[CaminhoAnexo][varchar](200)NOT NULL,&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;[Solicitante][varchar](80) NOT NULL,&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;[DataAbertura][datetime]NOT NULL,&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;[&lt;span&gt;Json][varchar](600)NOT NULL,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;[FlgProcessado][bit]NOT NULL,&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;•&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;[DataProcessamento][datetime] NULL,&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="340" y="490" width="267.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XkBPau3Ia7uNm1t16lfg-1" value="EventListener-FunctionApp" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="830" y="237" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XkBPau3Ia7uNm1t16lfg-3" value="• Monitora a fila a espera de um novo evento e inicia tratativa do evento. (Fila: poc-arquitetura-eventhub)" style="text;html=1;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XkBPau3Ia7uNm1t16lfg-1" vertex="1">
+          <mxGeometry y="26" width="200" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="XkBPau3Ia7uNm1t16lfg-4" value="• Envia evento para API IntegrationCRM por meio de requisição Http" style="text;html=1;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XkBPau3Ia7uNm1t16lfg-1" vertex="1">
+          <mxGeometry y="90" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XkBPau3Ia7uNm1t16lfg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6mR0P-CyY3UZcCd-Mql_-65" target="XkBPau3Ia7uNm1t16lfg-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkBPau3Ia7uNm1t16lfg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XkBPau3Ia7uNm1t16lfg-4" target="6mR0P-CyY3UZcCd-Mql_-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XkBPau3Ia7uNm1t16lfg-8" value="6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="685" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
